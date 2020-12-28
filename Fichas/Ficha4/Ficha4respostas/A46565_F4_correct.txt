@@ -1,0 +1,41 @@
+Cara(o) Aluna(o) de AA
+Junto segue a correção da Ficha N.4.
+-------------------------------------------------------
+A46565	Beatriz Tereso De Sá
+Nota: 18.0/18
+___________________________
+Q001
+Pergunta 1.a)
+Resposta correta: [0 0 0 1]
+Resposta dada:    [0 0 0 1]
+Pergunta 1.b)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 1.c)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+
+___________________________
+Q002
+Pergunta 2.a)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+Pergunta 2.b)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 2.c)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+
+___________________________
+Q003
+Pergunta 3.a)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 3.b)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 3.c)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+

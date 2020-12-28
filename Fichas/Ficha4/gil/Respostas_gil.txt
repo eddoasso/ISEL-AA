@@ -1,0 +1,14 @@
+1 a) iv #Confirmado
+  b) iii #Confirmado
+  c) iii #Confirmado
+
+
+
+2 a) iv #Confirmado
+  b) i #Confirmado
+  c) ii #Confirmado
+
+#Confirmado
+3 a) i
+  b) i
+  c) i

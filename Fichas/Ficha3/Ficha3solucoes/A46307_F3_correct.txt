@@ -1,0 +1,38 @@
+Cara(o) Aluna(o) de AA
+Junto segue a correção da Ficha N.3.
+-------------------------------------------------------
+A46307	Diogo Filipe Ricardo Ribeiro
+Nota: 20.0/20
+___________________________
+Q001
+Pergunta 1.a)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+Pergunta 1.b)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+Pergunta 1.c)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+Pergunta 1.d)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 1.e)
+Resposta correta: [0 1 0 0]
+Resposta dada:    [0 1 0 0]
+Pergunta 1.f)
+Resposta correta: [1 0 0 0]
+Resposta dada:    [1 0 0 0]
+Pergunta 1.g)
+Resposta correta: [0 0 0 1]
+Resposta dada:    [0 0 0 1]
+Pergunta 1.h)
+Resposta correta: [0 0 1 0]
+Resposta dada:    [0 0 1 0]
+Pergunta 1.i)
+Resposta correta: [0 1 0 0]
+Resposta dada:    [0 1 0 0]
+Pergunta 1.j)
+Resposta correta: [0 0 0 1]
+Resposta dada:    [0 0 0 1]
+
