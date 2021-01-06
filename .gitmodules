@@ -1,6 +1,0 @@
-[submodule "TP/AA-TP"]
-	path = TP/AA-TP
-	url = https://github.com/eddoasso/AA-TP
-[submodule "AA-TP"]
-	path = AA-TP
-	url = https://github.com/eddoasso/AA-TP
