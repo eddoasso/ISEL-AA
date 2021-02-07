@@ -2,3 +2,5 @@
 
 ## Autores
  - Pedro Henriques
+ - Joao Belas
+ 
